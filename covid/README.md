@@ -2,7 +2,7 @@
 Ini Adalah Aplikasi Rekapitulasi Penerimaan Bantuan Sosial COVID-19</br>
 Ini Merupakan Tugas UAS untuk Pemrograman WEB 2</br>
 
-# Kelompok 5 Kelas 06TPLM010
+# Kelompok 3 Kelas 06TPLM010
 Aswin Yadi Saputra</br>
 Bhogi Dewandaru</br>
 Dede Imam Saputra</br>
